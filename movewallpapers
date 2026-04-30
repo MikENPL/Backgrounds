@@ -1,0 +1,3 @@
+#!/bin/bash
+
+cp --update=all ./*.png /usr/share/wallpapers/cachyos-wallpapers
